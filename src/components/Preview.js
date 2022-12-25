@@ -21,7 +21,7 @@ export default function Preview() {
       console.log(check[0]);
       // console.log(id)
 
-      if (check[0] == id) {
+      if (check[0] === id) {
         quizid = check[0];
         quiztitle = check[1];
         quizz = check[2];
