@@ -241,17 +241,17 @@ export default function LoadTest() {
       ) : (
         <div className="inst border text-center  ">
           <h3> Instructions :-</h3>
-          {/* <p>1. All questions are compulsary.</p>
+          <p>1. All questions are compulsary.</p>
           
-          {/* <p>2. Use pen for rough work.</p> */}
+          <p>2. Use pen for rough work.</p>
           
-          {/* <p>3. Make sure you clicked on submit button to successfully complete the test.</p> */} */}
+          <p>3. Make sure you clicked on submit button to successfully complete the test.</p>
           
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
+          {/* Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
             soluta eveniet enim? Impedit, expedita delectus laboriosam
             consequuntur molestiae voluptate, maiores architecto, ipsum aut
             accusantium minus voluptatibus repellendus. Dolorem, illo
-            consequuntur.
+            consequuntur. */}
           <button
             className="btn btn-info mx-2 my--2"
             onClick={NextQuestionfrist}
